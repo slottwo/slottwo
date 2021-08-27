@@ -10,4 +10,4 @@
 
 🎯 Currently I'm learning about **Web Development** and **Backend** with **TypeScript** and **NodeJS** to leverage my knowledge on it as quickly as possible. 🚀
 
-> ***🌌 The universe is something very big, both macroscopically and microscopically, and today I know that it is virtually as well. But abstractly it is something infinite, with &infin; ideas and &infin; possibilities!***
+> ***🌌 The universe is something very big, both macroscopically and microscopically, and today I know it is virtually infinite, with infinite ideas and infinite possibilities***
