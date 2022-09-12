@@ -1,4 +1,4 @@
-# Hello there! What's up?
+# Hello there!
 
 🎓 I'm a college student of computer science 🧪, addicted to programming and math.
 
